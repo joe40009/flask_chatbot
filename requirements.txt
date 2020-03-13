@@ -1,0 +1,4 @@
+flask_script
+pymysql
+xmljson
+requests
